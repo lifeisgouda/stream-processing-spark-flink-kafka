@@ -322,5 +322,8 @@ spark-warehouse/
 # For SBT
 .jvmopts
 
+# Files
+*.csv
+
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,python,spark,git,java
